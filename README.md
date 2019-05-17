@@ -1,2 +1,2 @@
-# TheInadequates
-GitHub for developers of The Inadequates
+# The Inadequates
+GitHub for developers of *The Inadequates*
