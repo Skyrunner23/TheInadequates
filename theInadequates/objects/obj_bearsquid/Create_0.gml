@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
-sprite_index = choose(spr_bearsquid_retro, spr_bearsquid_realistic);
+image_speed = 0;
+image_index = choose(0, 1);

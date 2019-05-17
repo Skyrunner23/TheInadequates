@@ -45,3 +45,8 @@ if (keyboard_check(vk_numpad7))
 {
 	sprite_index = spr_phaius_player;
 }
+
+if (keyboard_check(vk_numpad0))
+{
+	sprite_index = spr_player_temp;
+}

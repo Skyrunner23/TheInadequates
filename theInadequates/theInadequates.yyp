@@ -66,15 +66,7 @@
             "Key": "26e39441-08b9-433b-850d-1c65909024ac",
             "Value": {
                 "id": "b0c72ac0-610d-4a12-ac89-69e307efc83b",
-                "resourcePath": "sprites\\spr_bearsquid_realistic\\spr_bearsquid_realistic.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "31d950aa-54f1-4ff5-aad9-aa42e8ff7159",
-            "Value": {
-                "id": "3dbb0140-65f7-4b12-9f83-e2bad3cd5158",
-                "resourcePath": "sprites\\spr_phaius_boss\\spr_phaius_boss.yy",
+                "resourcePath": "sprites\\spr_bearsquid\\spr_bearsquid.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -124,14 +116,6 @@
                 "id": "e9d8bb82-b657-4c79-bf4b-93e151ac40b6",
                 "resourcePath": "views\\69930627-fc6f-449a-a418-69af0988ae93.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "6aa9bf2f-127b-40d9-aaaa-7ca89b31ed82",
-            "Value": {
-                "id": "2ec798d9-9f46-4238-bb89-a08e81f76e3b",
-                "resourcePath": "sprites\\spr_bearsquid_retro\\spr_bearsquid_retro.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -186,7 +170,7 @@
             "Key": "8f43fad8-bf00-4aa1-9860-1f0592bf813c",
             "Value": {
                 "id": "17008106-eac6-4d26-84c2-e9d8ac264737",
-                "resourcePath": "sprites\\spr_phaius_player\\spr_phaius_player.yy",
+                "resourcePath": "sprites\\spr_phaius\\spr_phaius.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -196,6 +180,14 @@
                 "id": "025adc73-ec6e-45e6-a3cc-427d41e4d29e",
                 "resourcePath": "views\\90faaf45-6c89-44db-b860-dc06f6cf87c2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "96dcb99f-b7f5-4bad-8ef1-5bf87ef232c0",
+            "Value": {
+                "id": "772589a4-0fce-4076-bbc4-64affbb6752e",
+                "resourcePath": "sprites\\spr_danny\\spr_danny.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -227,14 +219,6 @@
             "Value": {
                 "id": "e57263f4-3d6f-40bb-b9f7-ea306354b2e1",
                 "resourcePath": "sprites\\spr_player_temp\\spr_player_temp.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ba84aebe-fde5-4b4f-a9b2-0981ac103778",
-            "Value": {
-                "id": "0fb3d3f7-3c65-41a6-bbd3-fef8820fc883",
-                "resourcePath": "sprites\\spr_phaius_old\\spr_phaius_old.yy",
                 "resourceType": "GMSprite"
             }
         },
