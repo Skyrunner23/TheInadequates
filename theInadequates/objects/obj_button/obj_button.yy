@@ -1,19 +1,10 @@
 {
-    "id": "9e97eaa8-c07f-4bea-9371-6d9bf96063c9",
+    "id": "156816f4-70cc-40eb-8c20-395ed49182b6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_danny",
+    "name": "obj_button",
     "eventList": [
-        {
-            "id": "f876a7ea-8367-498d-bc07-4fc5ac00129d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "9e97eaa8-c07f-4bea-9371-6d9bf96063c9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "7ce7417d-27aa-40a0-84a6-2c404db7f281",
     "visible": true
 }
