@@ -7,4 +7,4 @@ g = 0.3;
 // walk speed
 wsp = 4;
 
-image_speed = 0;
+image_speed = 1;

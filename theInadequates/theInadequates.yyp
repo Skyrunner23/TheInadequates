@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "13d011c6-5504-4a98-b2e0-39a48af78956",
+            "Value": {
+                "id": "e16cb8de-6079-4287-a715-e517f0b6770c",
+                "resourcePath": "sounds\\exploit\\exploit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "156816f4-70cc-40eb-8c20-395ed49182b6",
             "Value": {
                 "id": "dda235c0-1d0a-4d32-9071-425a2079bf8b",
@@ -76,6 +84,14 @@
                 "id": "b0c72ac0-610d-4a12-ac89-69e307efc83b",
                 "resourcePath": "sprites\\spr_bearsquid\\spr_bearsquid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c91eb4e-10a2-4f5a-b14f-5bdbd02b240e",
+            "Value": {
+                "id": "229831a4-2d8a-444e-8d7e-8da29f691b2e",
+                "resourcePath": "objects\\object9\\object9.yy",
+                "resourceType": "GMObject"
             }
         },
         {
